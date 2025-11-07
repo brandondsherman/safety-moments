@@ -1,0 +1,1827 @@
+[
+  {
+    "id": 1,
+    "category": "Construction – General",
+    "message": "As you approach the task, verify that all required permits are in place and understood by the team. If you find a problem, stop and tag the equipment out of service until repaired. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 1)"
+  },
+  {
+    "id": 2,
+    "category": "Construction – Fall Protection",
+    "message": "Before beginning work, always check that fall protection anchor points are rated and lanyards are correctly attached. Document the check and communicate it during the toolbox talk so everyone knows the risk. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 2)"
+  },
+  {
+    "id": 3,
+    "category": "Construction – Trench & Excavation",
+    "message": "As you approach the task, confirm that traffic control for vehicles and equipment is in place and visible. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 3)"
+  },
+  {
+    "id": 4,
+    "category": "Construction – Heavy Equipment",
+    "message": "Don't begin until you verify machinery lockout/tagout procedures are active before servicing electrical panels. If you find a problem, stop and tag the equipment out of service until repaired. Wear appropriate gloves for the material being handled and check grip. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 4)"
+  },
+  {
+    "id": 5,
+    "category": "Construction – Electrical Safety",
+    "message": "Before beginning work, always check that fall protection anchor points are rated and lanyards are correctly attached. Use grounding and GFCI protection when working with temporary power near water. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 5)"
+  },
+  {
+    "id": 6,
+    "category": "Construction – PPE",
+    "message": "Don't begin until you check that fall protection anchor points are rated and lanyards are correctly attached. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 6)"
+  },
+  {
+    "id": 7,
+    "category": "Construction – Site Housekeeping",
+    "message": "Don't begin until you verify machinery lockout/tagout procedures are active before servicing electrical panels. Use a buddy system when entering confined spaces and keep a trained attendant present. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 7)"
+  },
+  {
+    "id": 8,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "A quick pre-task check: ensure eyewash and first-aid stations are accessible before handling chemicals. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use hearing protection near sustained loud noise and rotate exposure when possible. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 8)"
+  },
+  {
+    "id": 9,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Prioritize this simple step: confirm the stability of surfaces and handholds where you will stand or walk. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 9)"
+  },
+  {
+    "id": 10,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "A quick pre-task check: confirm the stability of surfaces and handholds where you will stand or walk. Use a buddy system when entering confined spaces and keep a trained attendant present. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 10)"
+  },
+  {
+    "id": 11,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Start every shift by verify that all required permits are in place and understood by the team. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Confirm that traffic control includes barriers and clear signage for pedestrians. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 11)"
+  },
+  {
+    "id": 12,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Prioritize this simple step: confirm excavations are free of standing water and that pump systems are working. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 12)"
+  },
+  {
+    "id": 13,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Start every shift by confirm that traffic control for vehicles and equipment is in place and visible. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 13)"
+  },
+  {
+    "id": 14,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Make it routine to verify that all required permits are in place and understood by the team. Use grounding and GFCI protection when working with temporary power near water. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 14)"
+  },
+  {
+    "id": 15,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "As you approach the task, check all PPE fits correctly and is free of tears, cracks, or excessive wear. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 15)"
+  },
+  {
+    "id": 16,
+    "category": "Construction – General",
+    "message": "Don't begin until you check that fall protection anchor points are rated and lanyards are correctly attached. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Wear appropriate gloves for the material being handled and check grip. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 16)"
+  },
+  {
+    "id": 17,
+    "category": "Construction – Fall Protection",
+    "message": "As you approach the task, check that fall protection anchor points are rated and lanyards are correctly attached. Store flammables away from heat sources and mark them with clear signage. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 17)"
+  },
+  {
+    "id": 18,
+    "category": "Construction – Trench & Excavation",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 18)"
+  },
+  {
+    "id": 19,
+    "category": "Construction – Heavy Equipment",
+    "message": "A quick pre-task check: make sure incoming materials are stowed securely and will not roll or fall. Label and isolate water lines during repairs to avoid cross-connection and contamination. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 19)"
+  },
+  {
+    "id": 20,
+    "category": "Construction – Electrical Safety",
+    "message": "Before beginning work, always confirm excavations are free of standing water and that pump systems are working. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 20)"
+  },
+  {
+    "id": 21,
+    "category": "Construction – PPE",
+    "message": "A quick pre-task check: confirm that traffic control for vehicles and equipment is in place and visible. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 21)"
+  },
+  {
+    "id": 22,
+    "category": "Construction – Site Housekeeping",
+    "message": "Start every shift by check all PPE fits correctly and is free of tears, cracks, or excessive wear. Label and isolate water lines during repairs to avoid cross-connection and contamination. When working near water, ensure floatation devices are available for non-swimmers. Good habits built daily keep teams safe and projects on schedule. (Tip 22)"
+  },
+  {
+    "id": 23,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "As you approach the task, check that fall protection anchor points are rated and lanyards are correctly attached. Document the check and communicate it during the toolbox talk so everyone knows the risk. Keep a charged phone or radio available for emergencies; know the site emergency number. Small inspections prevent big incidents; make it non-negotiable. (Tip 23)"
+  },
+  {
+    "id": 24,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "A quick pre-task check: confirm that communication (radio/hand signal) plans are understood by everyone on site. Label and isolate water lines during repairs to avoid cross-connection and contamination. When working near water, ensure floatation devices are available for non-swimmers. This simple routine protects people, equipment, and the project timeline. (Tip 24)"
+  },
+  {
+    "id": 25,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Before beginning work, always verify that spill kits and containment materials are nearby when working around water systems. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Use hearing protection near sustained loud noise and rotate exposure when possible. A short pause to verify safety may be the best minute you spend all day. (Tip 25)"
+  },
+  {
+    "id": 26,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Prioritize this simple step: inspect tools and equipment for visible damage, loose parts, and proper guards. Use a buddy system when entering confined spaces and keep a trained attendant present. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 26)"
+  },
+  {
+    "id": 27,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Prioritize this simple step: confirm excavations are free of standing water and that pump systems are working. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 27)"
+  },
+  {
+    "id": 28,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Before beginning work, always confirm that communication (radio/hand signal) plans are understood by everyone on site. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 28)"
+  },
+  {
+    "id": 29,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Before beginning work, always verify that spill kits and containment materials are nearby when working around water systems. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 29)"
+  },
+  {
+    "id": 30,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Make it routine to confirm the stability of surfaces and handholds where you will stand or walk. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use taglines or guide ropes when moving long or suspended loads. Good habits built daily keep teams safe and projects on schedule. (Tip 30)"
+  },
+  {
+    "id": 31,
+    "category": "Construction – General",
+    "message": "As you approach the task, confirm confined-space atmosphere testing has been done and ventilation is adequate. Use grounding and GFCI protection when working with temporary power near water. Verify that all temporary lighting is secured and does not present a trip hazard. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 31)"
+  },
+  {
+    "id": 32,
+    "category": "Construction – Fall Protection",
+    "message": "Don't begin until you verify machinery lockout/tagout procedures are active before servicing electrical panels. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 32)"
+  },
+  {
+    "id": 33,
+    "category": "Construction – Trench & Excavation",
+    "message": "A quick pre-task check: check that fall protection anchor points are rated and lanyards are correctly attached. Document the check and communicate it during the toolbox talk so everyone knows the risk. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 33)"
+  },
+  {
+    "id": 34,
+    "category": "Construction – Heavy Equipment",
+    "message": "Start every shift by ensure eyewash and first-aid stations are accessible before handling chemicals. If you find a problem, stop and tag the equipment out of service until repaired. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 34)"
+  },
+  {
+    "id": 35,
+    "category": "Construction – Electrical Safety",
+    "message": "Before beginning work, always verify that spill kits and containment materials are nearby when working around water systems. Document the check and communicate it during the toolbox talk so everyone knows the risk. Verify that all temporary lighting is secured and does not present a trip hazard. A short pause to verify safety may be the best minute you spend all day. (Tip 35)"
+  },
+  {
+    "id": 36,
+    "category": "Construction – PPE",
+    "message": "Make it routine to check all PPE fits correctly and is free of tears, cracks, or excessive wear. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Keep a charged phone or radio available for emergencies; know the site emergency number. Small inspections prevent big incidents; make it non-negotiable. (Tip 36)"
+  },
+  {
+    "id": 37,
+    "category": "Construction – Site Housekeeping",
+    "message": "Don't begin until you make sure incoming materials are stowed securely and will not roll or fall. Use grounding and GFCI protection when working with temporary power near water. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 37)"
+  },
+  {
+    "id": 38,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Prioritize this simple step: inspect tools and equipment for visible damage, loose parts, and proper guards. Label and isolate water lines during repairs to avoid cross-connection and contamination. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 38)"
+  },
+  {
+    "id": 39,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "As you approach the task, confirm that communication (radio/hand signal) plans are understood by everyone on site. Use grounding and GFCI protection when working with temporary power near water. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 39)"
+  },
+  {
+    "id": 40,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Prioritize this simple step: verify that spill kits and containment materials are nearby when working around water systems. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Confirm that traffic control includes barriers and clear signage for pedestrians. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 40)"
+  },
+  {
+    "id": 41,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Make it routine to confirm the stability of surfaces and handholds where you will stand or walk. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 41)"
+  },
+  {
+    "id": 42,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Use grounding and GFCI protection when working with temporary power near water. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 42)"
+  },
+  {
+    "id": 43,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Don't begin until you confirm that communication (radio/hand signal) plans are understood by everyone on site. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Verify that all temporary lighting is secured and does not present a trip hazard. A short pause to verify safety may be the best minute you spend all day. (Tip 43)"
+  },
+  {
+    "id": 44,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "A quick pre-task check: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Label and isolate water lines during repairs to avoid cross-connection and contamination. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 44)"
+  },
+  {
+    "id": 45,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Before beginning work, always confirm the stability of surfaces and handholds where you will stand or walk. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 45)"
+  },
+  {
+    "id": 46,
+    "category": "Construction – General",
+    "message": "Don't begin until you ensure eyewash and first-aid stations are accessible before handling chemicals. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 46)"
+  },
+  {
+    "id": 47,
+    "category": "Construction – Fall Protection",
+    "message": "Don't begin until you confirm excavations are free of standing water and that pump systems are working. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Wear appropriate gloves for the material being handled and check grip. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 47)"
+  },
+  {
+    "id": 48,
+    "category": "Construction – Trench & Excavation",
+    "message": "A quick pre-task check: confirm that communication (radio/hand signal) plans are understood by everyone on site. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 48)"
+  },
+  {
+    "id": 49,
+    "category": "Construction – Heavy Equipment",
+    "message": "Before beginning work, always inspect tools and equipment for visible damage, loose parts, and proper guards. Use a buddy system when entering confined spaces and keep a trained attendant present. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 49)"
+  },
+  {
+    "id": 50,
+    "category": "Construction – Electrical Safety",
+    "message": "Start every shift by confirm that traffic control for vehicles and equipment is in place and visible. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 50)"
+  },
+  {
+    "id": 51,
+    "category": "Construction – PPE",
+    "message": "Prioritize this simple step: confirm confined-space atmosphere testing has been done and ventilation is adequate. Store flammables away from heat sources and mark them with clear signage. Use taglines or guide ropes when moving long or suspended loads. Good habits built daily keep teams safe and projects on schedule. (Tip 51)"
+  },
+  {
+    "id": 52,
+    "category": "Construction – Site Housekeeping",
+    "message": "As you approach the task, make sure incoming materials are stowed securely and will not roll or fall. Use grounding and GFCI protection when working with temporary power near water. Confirm that traffic control includes barriers and clear signage for pedestrians. Good habits built daily keep teams safe and projects on schedule. (Tip 52)"
+  },
+  {
+    "id": 53,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Don't begin until you inspect hoses and couplings for leaks and secure connections before pressurizing lines. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 53)"
+  },
+  {
+    "id": 54,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Don't begin until you ensure eyewash and first-aid stations are accessible before handling chemicals. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Use taglines or guide ropes when moving long or suspended loads. This simple routine protects people, equipment, and the project timeline. (Tip 54)"
+  },
+  {
+    "id": 55,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 55)"
+  },
+  {
+    "id": 56,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "A quick pre-task check: make sure incoming materials are stowed securely and will not roll or fall. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 56)"
+  },
+  {
+    "id": 57,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Start every shift by check that fall protection anchor points are rated and lanyards are correctly attached. Use a buddy system when entering confined spaces and keep a trained attendant present. Confirm that traffic control includes barriers and clear signage for pedestrians. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 57)"
+  },
+  {
+    "id": 58,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Start every shift by check all PPE fits correctly and is free of tears, cracks, or excessive wear. Use grounding and GFCI protection when working with temporary power near water. When working near water, ensure floatation devices are available for non-swimmers. Good habits built daily keep teams safe and projects on schedule. (Tip 58)"
+  },
+  {
+    "id": 59,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Before beginning work, always inspect tools and equipment for visible damage, loose parts, and proper guards. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 59)"
+  },
+  {
+    "id": 60,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Start every shift by check that fall protection anchor points are rated and lanyards are correctly attached. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use hearing protection near sustained loud noise and rotate exposure when possible. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 60)"
+  },
+  {
+    "id": 61,
+    "category": "Construction – General",
+    "message": "A quick pre-task check: verify that all required permits are in place and understood by the team. Use grounding and GFCI protection when working with temporary power near water. Confirm that traffic control includes barriers and clear signage for pedestrians. Good habits built daily keep teams safe and projects on schedule. (Tip 61)"
+  },
+  {
+    "id": 62,
+    "category": "Construction – Fall Protection",
+    "message": "As you approach the task, make sure incoming materials are stowed securely and will not roll or fall. Use a buddy system when entering confined spaces and keep a trained attendant present. Use taglines or guide ropes when moving long or suspended loads. When in doubt, stop and rethink the procedure with your team. (Tip 62)"
+  },
+  {
+    "id": 63,
+    "category": "Construction – Trench & Excavation",
+    "message": "As you approach the task, confirm that communication (radio/hand signal) plans are understood by everyone on site. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 63)"
+  },
+  {
+    "id": 64,
+    "category": "Construction – Heavy Equipment",
+    "message": "Make it routine to check that fall protection anchor points are rated and lanyards are correctly attached. Store flammables away from heat sources and mark them with clear signage. Use hearing protection near sustained loud noise and rotate exposure when possible. Small inspections prevent big incidents; make it non-negotiable. (Tip 64)"
+  },
+  {
+    "id": 65,
+    "category": "Construction – Electrical Safety",
+    "message": "Make it routine to check that fall protection anchor points are rated and lanyards are correctly attached. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 65)"
+  },
+  {
+    "id": 66,
+    "category": "Construction – PPE",
+    "message": "Make it routine to confirm excavations are free of standing water and that pump systems are working. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Keep a charged phone or radio available for emergencies; know the site emergency number. Small inspections prevent big incidents; make it non-negotiable. (Tip 66)"
+  },
+  {
+    "id": 67,
+    "category": "Construction – Site Housekeeping",
+    "message": "Prioritize this simple step: confirm that traffic control for vehicles and equipment is in place and visible. If you find a problem, stop and tag the equipment out of service until repaired. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 67)"
+  },
+  {
+    "id": 68,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "As you approach the task, verify that all required permits are in place and understood by the team. If you find a problem, stop and tag the equipment out of service until repaired. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 68)"
+  },
+  {
+    "id": 69,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "A quick pre-task check: ensure eyewash and first-aid stations are accessible before handling chemicals. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use taglines or guide ropes when moving long or suspended loads. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 69)"
+  },
+  {
+    "id": 70,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Before beginning work, always check that fall protection anchor points are rated and lanyards are correctly attached. Use grounding and GFCI protection when working with temporary power near water. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 70)"
+  },
+  {
+    "id": 71,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Make it routine to confirm the stability of surfaces and handholds where you will stand or walk. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 71)"
+  },
+  {
+    "id": 72,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Prioritize this simple step: confirm that communication (radio/hand signal) plans are understood by everyone on site. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use hearing protection near sustained loud noise and rotate exposure when possible. Small inspections prevent big incidents; make it non-negotiable. (Tip 72)"
+  },
+  {
+    "id": 73,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Prioritize this simple step: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Use grounding and GFCI protection when working with temporary power near water. Wear appropriate gloves for the material being handled and check grip. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 73)"
+  },
+  {
+    "id": 74,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "As you approach the task, confirm confined-space atmosphere testing has been done and ventilation is adequate. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Wear appropriate gloves for the material being handled and check grip. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 74)"
+  },
+  {
+    "id": 75,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Prioritize this simple step: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Use a buddy system when entering confined spaces and keep a trained attendant present. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 75)"
+  },
+  {
+    "id": 76,
+    "category": "Construction – General",
+    "message": "Make it routine to make sure incoming materials are stowed securely and will not roll or fall. Use a buddy system when entering confined spaces and keep a trained attendant present. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 76)"
+  },
+  {
+    "id": 77,
+    "category": "Construction – Fall Protection",
+    "message": "Start every shift by confirm the stability of surfaces and handholds where you will stand or walk. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 77)"
+  },
+  {
+    "id": 78,
+    "category": "Construction – Trench & Excavation",
+    "message": "A quick pre-task check: confirm that communication (radio/hand signal) plans are understood by everyone on site. Store flammables away from heat sources and mark them with clear signage. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 78)"
+  },
+  {
+    "id": 79,
+    "category": "Construction – Heavy Equipment",
+    "message": "A quick pre-task check: verify machinery lockout/tagout procedures are active before servicing electrical panels. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Use hearing protection near sustained loud noise and rotate exposure when possible. This simple routine protects people, equipment, and the project timeline. (Tip 79)"
+  },
+  {
+    "id": 80,
+    "category": "Construction – Electrical Safety",
+    "message": "Don't begin until you verify that spill kits and containment materials are nearby when working around water systems. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 80)"
+  },
+  {
+    "id": 81,
+    "category": "Construction – PPE",
+    "message": "Before beginning work, always ensure trenches are sloped or shored according to depth and soil type. Use a buddy system when entering confined spaces and keep a trained attendant present. When working near water, ensure floatation devices are available for non-swimmers. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 81)"
+  },
+  {
+    "id": 82,
+    "category": "Construction – Site Housekeeping",
+    "message": "As you approach the task, confirm confined-space atmosphere testing has been done and ventilation is adequate. If you find a problem, stop and tag the equipment out of service until repaired. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 82)"
+  },
+  {
+    "id": 83,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Start every shift by inspect tools and equipment for visible damage, loose parts, and proper guards. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 83)"
+  },
+  {
+    "id": 84,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Prioritize this simple step: confirm confined-space atmosphere testing has been done and ventilation is adequate. Document the check and communicate it during the toolbox talk so everyone knows the risk. When working near water, ensure floatation devices are available for non-swimmers. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 84)"
+  },
+  {
+    "id": 85,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Start every shift by inspect hoses and couplings for leaks and secure connections before pressurizing lines. Document the check and communicate it during the toolbox talk so everyone knows the risk. When working near water, ensure floatation devices are available for non-swimmers. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 85)"
+  },
+  {
+    "id": 86,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Start every shift by verify that spill kits and containment materials are nearby when working around water systems. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 86)"
+  },
+  {
+    "id": 87,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Start every shift by confirm that communication (radio/hand signal) plans are understood by everyone on site. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. When working near water, ensure floatation devices are available for non-swimmers. Good habits built daily keep teams safe and projects on schedule. (Tip 87)"
+  },
+  {
+    "id": 88,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Don't begin until you inspect tools and equipment for visible damage, loose parts, and proper guards. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 88)"
+  },
+  {
+    "id": 89,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "As you approach the task, check all PPE fits correctly and is free of tears, cracks, or excessive wear. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Confirm that traffic control includes barriers and clear signage for pedestrians. When in doubt, stop and rethink the procedure with your team. (Tip 89)"
+  },
+  {
+    "id": 90,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "A quick pre-task check: check that fall protection anchor points are rated and lanyards are correctly attached. Label and isolate water lines during repairs to avoid cross-connection and contamination. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 90)"
+  },
+  {
+    "id": 91,
+    "category": "Construction – General",
+    "message": "Before beginning work, always ensure trenches are sloped or shored according to depth and soil type. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 91)"
+  },
+  {
+    "id": 92,
+    "category": "Construction – Fall Protection",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 92)"
+  },
+  {
+    "id": 93,
+    "category": "Construction – Trench & Excavation",
+    "message": "Start every shift by inspect tools and equipment for visible damage, loose parts, and proper guards. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 93)"
+  },
+  {
+    "id": 94,
+    "category": "Construction – Heavy Equipment",
+    "message": "Start every shift by verify that all required permits are in place and understood by the team. Use grounding and GFCI protection when working with temporary power near water. When working near water, ensure floatation devices are available for non-swimmers. Good habits built daily keep teams safe and projects on schedule. (Tip 94)"
+  },
+  {
+    "id": 95,
+    "category": "Construction – Electrical Safety",
+    "message": "A quick pre-task check: confirm the stability of surfaces and handholds where you will stand or walk. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 95)"
+  },
+  {
+    "id": 96,
+    "category": "Construction – PPE",
+    "message": "Before beginning work, always confirm excavations are free of standing water and that pump systems are working. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 96)"
+  },
+  {
+    "id": 97,
+    "category": "Construction – Site Housekeeping",
+    "message": "Prioritize this simple step: confirm confined-space atmosphere testing has been done and ventilation is adequate. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 97)"
+  },
+  {
+    "id": 98,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Prioritize this simple step: verify that spill kits and containment materials are nearby when working around water systems. Use grounding and GFCI protection when working with temporary power near water. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 98)"
+  },
+  {
+    "id": 99,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Prioritize this simple step: confirm confined-space atmosphere testing has been done and ventilation is adequate. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 99)"
+  },
+  {
+    "id": 100,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Before beginning work, always ensure trenches are sloped or shored according to depth and soil type. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 100)"
+  },
+  {
+    "id": 101,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Don't begin until you confirm the stability of surfaces and handholds where you will stand or walk. Maintain three points of contact when climbing ladders and use a ladder rated for the load. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 101)"
+  },
+  {
+    "id": 102,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Before beginning work, always confirm that traffic control for vehicles and equipment is in place and visible. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 102)"
+  },
+  {
+    "id": 103,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, inspect hoses and couplings for leaks and secure connections before pressurizing lines. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 103)"
+  },
+  {
+    "id": 104,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "A quick pre-task check: confirm that communication (radio/hand signal) plans are understood by everyone on site. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 104)"
+  },
+  {
+    "id": 105,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Start every shift by verify that spill kits and containment materials are nearby when working around water systems. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 105)"
+  },
+  {
+    "id": 106,
+    "category": "Construction – General",
+    "message": "Start every shift by inspect tools and equipment for visible damage, loose parts, and proper guards. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 106)"
+  },
+  {
+    "id": 107,
+    "category": "Construction – Fall Protection",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Document the check and communicate it during the toolbox talk so everyone knows the risk. Keep a charged phone or radio available for emergencies; know the site emergency number. This simple routine protects people, equipment, and the project timeline. (Tip 107)"
+  },
+  {
+    "id": 108,
+    "category": "Construction – Trench & Excavation",
+    "message": "Don't begin until you confirm that traffic control for vehicles and equipment is in place and visible. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 108)"
+  },
+  {
+    "id": 109,
+    "category": "Construction – Heavy Equipment",
+    "message": "Start every shift by verify that all required permits are in place and understood by the team. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Use taglines or guide ropes when moving long or suspended loads. This simple routine protects people, equipment, and the project timeline. (Tip 109)"
+  },
+  {
+    "id": 110,
+    "category": "Construction – Electrical Safety",
+    "message": "Don't begin until you inspect tools and equipment for visible damage, loose parts, and proper guards. Check weather forecasts for high winds or storms before lifting or securing overhead materials. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 110)"
+  },
+  {
+    "id": 111,
+    "category": "Construction – PPE",
+    "message": "Don't begin until you confirm the stability of surfaces and handholds where you will stand or walk. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Wear appropriate gloves for the material being handled and check grip. Good habits built daily keep teams safe and projects on schedule. (Tip 111)"
+  },
+  {
+    "id": 112,
+    "category": "Construction – Site Housekeeping",
+    "message": "A quick pre-task check: confirm excavations are free of standing water and that pump systems are working. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Use hearing protection near sustained loud noise and rotate exposure when possible. A short pause to verify safety may be the best minute you spend all day. (Tip 112)"
+  },
+  {
+    "id": 113,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Start every shift by confirm that communication (radio/hand signal) plans are understood by everyone on site. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 113)"
+  },
+  {
+    "id": 114,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Before beginning work, always verify that spill kits and containment materials are nearby when working around water systems. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 114)"
+  },
+  {
+    "id": 115,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Don't begin until you confirm that communication (radio/hand signal) plans are understood by everyone on site. Check weather forecasts for high winds or storms before lifting or securing overhead materials. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 115)"
+  },
+  {
+    "id": 116,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "As you approach the task, confirm the stability of surfaces and handholds where you will stand or walk. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 116)"
+  },
+  {
+    "id": 117,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Before beginning work, always ensure eyewash and first-aid stations are accessible before handling chemicals. Store flammables away from heat sources and mark them with clear signage. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 117)"
+  },
+  {
+    "id": 118,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Start every shift by confirm the stability of surfaces and handholds where you will stand or walk. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 118)"
+  },
+  {
+    "id": 119,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Make it routine to ensure eyewash and first-aid stations are accessible before handling chemicals. Label and isolate water lines during repairs to avoid cross-connection and contamination. Verify that all temporary lighting is secured and does not present a trip hazard. A short pause to verify safety may be the best minute you spend all day. (Tip 119)"
+  },
+  {
+    "id": 120,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 120)"
+  },
+  {
+    "id": 121,
+    "category": "Construction – General",
+    "message": "As you approach the task, verify that all required permits are in place and understood by the team. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 121)"
+  },
+  {
+    "id": 122,
+    "category": "Construction – Fall Protection",
+    "message": "Prioritize this simple step: make sure incoming materials are stowed securely and will not roll or fall. Use a buddy system when entering confined spaces and keep a trained attendant present. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 122)"
+  },
+  {
+    "id": 123,
+    "category": "Construction – Trench & Excavation",
+    "message": "Make it routine to confirm excavations are free of standing water and that pump systems are working. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use hearing protection near sustained loud noise and rotate exposure when possible. A short pause to verify safety may be the best minute you spend all day. (Tip 123)"
+  },
+  {
+    "id": 124,
+    "category": "Construction – Heavy Equipment",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Use a buddy system when entering confined spaces and keep a trained attendant present. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 124)"
+  },
+  {
+    "id": 125,
+    "category": "Construction – Electrical Safety",
+    "message": "Before beginning work, always verify machinery lockout/tagout procedures are active before servicing electrical panels. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 125)"
+  },
+  {
+    "id": 126,
+    "category": "Construction – PPE",
+    "message": "Start every shift by ensure eyewash and first-aid stations are accessible before handling chemicals. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Verify that all temporary lighting is secured and does not present a trip hazard. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 126)"
+  },
+  {
+    "id": 127,
+    "category": "Construction – Site Housekeeping",
+    "message": "Don't begin until you verify machinery lockout/tagout procedures are active before servicing electrical panels. Label and isolate water lines during repairs to avoid cross-connection and contamination. When working near water, ensure floatation devices are available for non-swimmers. A short pause to verify safety may be the best minute you spend all day. (Tip 127)"
+  },
+  {
+    "id": 128,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "A quick pre-task check: inspect tools and equipment for visible damage, loose parts, and proper guards. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 128)"
+  },
+  {
+    "id": 129,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Don't begin until you ensure trenches are sloped or shored according to depth and soil type. If you find a problem, stop and tag the equipment out of service until repaired. When working near water, ensure floatation devices are available for non-swimmers. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 129)"
+  },
+  {
+    "id": 130,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Make it routine to confirm excavations are free of standing water and that pump systems are working. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 130)"
+  },
+  {
+    "id": 131,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Make it routine to check all PPE fits correctly and is free of tears, cracks, or excessive wear. Use grounding and GFCI protection when working with temporary power near water. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 131)"
+  },
+  {
+    "id": 132,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Don't begin until you check that fall protection anchor points are rated and lanyards are correctly attached. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 132)"
+  },
+  {
+    "id": 133,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Make it routine to inspect tools and equipment for visible damage, loose parts, and proper guards. Use grounding and GFCI protection when working with temporary power near water. When working near water, ensure floatation devices are available for non-swimmers. A short pause to verify safety may be the best minute you spend all day. (Tip 133)"
+  },
+  {
+    "id": 134,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "As you approach the task, confirm that traffic control for vehicles and equipment is in place and visible. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 134)"
+  },
+  {
+    "id": 135,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Before beginning work, always confirm excavations are free of standing water and that pump systems are working. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 135)"
+  },
+  {
+    "id": 136,
+    "category": "Construction – General",
+    "message": "A quick pre-task check: check all PPE fits correctly and is free of tears, cracks, or excessive wear. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Use hearing protection near sustained loud noise and rotate exposure when possible. This simple routine protects people, equipment, and the project timeline. (Tip 136)"
+  },
+  {
+    "id": 137,
+    "category": "Construction – Fall Protection",
+    "message": "Start every shift by confirm that traffic control for vehicles and equipment is in place and visible. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 137)"
+  },
+  {
+    "id": 138,
+    "category": "Construction – Trench & Excavation",
+    "message": "A quick pre-task check: verify that spill kits and containment materials are nearby when working around water systems. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Keep a charged phone or radio available for emergencies; know the site emergency number. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 138)"
+  },
+  {
+    "id": 139,
+    "category": "Construction – Heavy Equipment",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Use grounding and GFCI protection when working with temporary power near water. Use taglines or guide ropes when moving long or suspended loads. Good habits built daily keep teams safe and projects on schedule. (Tip 139)"
+  },
+  {
+    "id": 140,
+    "category": "Construction – Electrical Safety",
+    "message": "Make it routine to verify that spill kits and containment materials are nearby when working around water systems. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 140)"
+  },
+  {
+    "id": 141,
+    "category": "Construction – PPE",
+    "message": "Before beginning work, always check all PPE fits correctly and is free of tears, cracks, or excessive wear. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Keep a charged phone or radio available for emergencies; know the site emergency number. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 141)"
+  },
+  {
+    "id": 142,
+    "category": "Construction – Site Housekeeping",
+    "message": "Don't begin until you inspect hoses and couplings for leaks and secure connections before pressurizing lines. If you find a problem, stop and tag the equipment out of service until repaired. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 142)"
+  },
+  {
+    "id": 143,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Before beginning work, always verify machinery lockout/tagout procedures are active before servicing electrical panels. Store flammables away from heat sources and mark them with clear signage. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 143)"
+  },
+  {
+    "id": 144,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "As you approach the task, confirm excavations are free of standing water and that pump systems are working. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Keep a charged phone or radio available for emergencies; know the site emergency number. Small inspections prevent big incidents; make it non-negotiable. (Tip 144)"
+  },
+  {
+    "id": 145,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "As you approach the task, check that fall protection anchor points are rated and lanyards are correctly attached. Use grounding and GFCI protection when working with temporary power near water. Use hearing protection near sustained loud noise and rotate exposure when possible. Small inspections prevent big incidents; make it non-negotiable. (Tip 145)"
+  },
+  {
+    "id": 146,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Prioritize this simple step: confirm that traffic control for vehicles and equipment is in place and visible. Document the check and communicate it during the toolbox talk so everyone knows the risk. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 146)"
+  },
+  {
+    "id": 147,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "A quick pre-task check: confirm confined-space atmosphere testing has been done and ventilation is adequate. Label and isolate water lines during repairs to avoid cross-connection and contamination. When working near water, ensure floatation devices are available for non-swimmers. This simple routine protects people, equipment, and the project timeline. (Tip 147)"
+  },
+  {
+    "id": 148,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "A quick pre-task check: verify that all required permits are in place and understood by the team. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 148)"
+  },
+  {
+    "id": 149,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Use a buddy system when entering confined spaces and keep a trained attendant present. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 149)"
+  },
+  {
+    "id": 150,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Before beginning work, always inspect tools and equipment for visible damage, loose parts, and proper guards. If you find a problem, stop and tag the equipment out of service until repaired. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 150)"
+  },
+  {
+    "id": 151,
+    "category": "Construction – General",
+    "message": "Don't begin until you inspect hoses and couplings for leaks and secure connections before pressurizing lines. Store flammables away from heat sources and mark them with clear signage. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 151)"
+  },
+  {
+    "id": 152,
+    "category": "Construction – Fall Protection",
+    "message": "Make it routine to confirm that communication (radio/hand signal) plans are understood by everyone on site. Label and isolate water lines during repairs to avoid cross-connection and contamination. Use taglines or guide ropes when moving long or suspended loads. When in doubt, stop and rethink the procedure with your team. (Tip 152)"
+  },
+  {
+    "id": 153,
+    "category": "Construction – Trench & Excavation",
+    "message": "As you approach the task, confirm that traffic control for vehicles and equipment is in place and visible. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Keep a charged phone or radio available for emergencies; know the site emergency number. Small inspections prevent big incidents; make it non-negotiable. (Tip 153)"
+  },
+  {
+    "id": 154,
+    "category": "Construction – Heavy Equipment",
+    "message": "Before beginning work, always confirm the stability of surfaces and handholds where you will stand or walk. Label and isolate water lines during repairs to avoid cross-connection and contamination. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 154)"
+  },
+  {
+    "id": 155,
+    "category": "Construction – Electrical Safety",
+    "message": "Prioritize this simple step: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Store flammables away from heat sources and mark them with clear signage. Use hearing protection near sustained loud noise and rotate exposure when possible. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 155)"
+  },
+  {
+    "id": 156,
+    "category": "Construction – PPE",
+    "message": "Make it routine to check that fall protection anchor points are rated and lanyards are correctly attached. Document the check and communicate it during the toolbox talk so everyone knows the risk. Verify that all temporary lighting is secured and does not present a trip hazard. A short pause to verify safety may be the best minute you spend all day. (Tip 156)"
+  },
+  {
+    "id": 157,
+    "category": "Construction – Site Housekeeping",
+    "message": "Don't begin until you make sure incoming materials are stowed securely and will not roll or fall. If you find a problem, stop and tag the equipment out of service until repaired. Use taglines or guide ropes when moving long or suspended loads. When in doubt, stop and rethink the procedure with your team. (Tip 157)"
+  },
+  {
+    "id": 158,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Prioritize this simple step: verify that all required permits are in place and understood by the team. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 158)"
+  },
+  {
+    "id": 159,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Make it routine to verify that spill kits and containment materials are nearby when working around water systems. Use grounding and GFCI protection when working with temporary power near water. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 159)"
+  },
+  {
+    "id": 160,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "A quick pre-task check: ensure eyewash and first-aid stations are accessible before handling chemicals. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 160)"
+  },
+  {
+    "id": 161,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Prioritize this simple step: confirm that traffic control for vehicles and equipment is in place and visible. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 161)"
+  },
+  {
+    "id": 162,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Prioritize this simple step: confirm that communication (radio/hand signal) plans are understood by everyone on site. Use grounding and GFCI protection when working with temporary power near water. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 162)"
+  },
+  {
+    "id": 163,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, inspect hoses and couplings for leaks and secure connections before pressurizing lines. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 163)"
+  },
+  {
+    "id": 164,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 164)"
+  },
+  {
+    "id": 165,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Prioritize this simple step: ensure eyewash and first-aid stations are accessible before handling chemicals. Use grounding and GFCI protection when working with temporary power near water. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 165)"
+  },
+  {
+    "id": 166,
+    "category": "Construction – General",
+    "message": "Before beginning work, always ensure trenches are sloped or shored according to depth and soil type. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 166)"
+  },
+  {
+    "id": 167,
+    "category": "Construction – Fall Protection",
+    "message": "A quick pre-task check: check that fall protection anchor points are rated and lanyards are correctly attached. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 167)"
+  },
+  {
+    "id": 168,
+    "category": "Construction – Trench & Excavation",
+    "message": "Don't begin until you verify that all required permits are in place and understood by the team. Document the check and communicate it during the toolbox talk so everyone knows the risk. Use taglines or guide ropes when moving long or suspended loads. Good habits built daily keep teams safe and projects on schedule. (Tip 168)"
+  },
+  {
+    "id": 169,
+    "category": "Construction – Heavy Equipment",
+    "message": "Make it routine to confirm that traffic control for vehicles and equipment is in place and visible. Document the check and communicate it during the toolbox talk so everyone knows the risk. Use taglines or guide ropes when moving long or suspended loads. This simple routine protects people, equipment, and the project timeline. (Tip 169)"
+  },
+  {
+    "id": 170,
+    "category": "Construction – Electrical Safety",
+    "message": "Start every shift by verify machinery lockout/tagout procedures are active before servicing electrical panels. Keep walkways clear and clean up small spills promptly to prevent slips and falls. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 170)"
+  },
+  {
+    "id": 171,
+    "category": "Construction – PPE",
+    "message": "Make it routine to verify machinery lockout/tagout procedures are active before servicing electrical panels. If you find a problem, stop and tag the equipment out of service until repaired. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 171)"
+  },
+  {
+    "id": 172,
+    "category": "Construction – Site Housekeeping",
+    "message": "Make it routine to verify machinery lockout/tagout procedures are active before servicing electrical panels. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. When working near water, ensure floatation devices are available for non-swimmers. A short pause to verify safety may be the best minute you spend all day. (Tip 172)"
+  },
+  {
+    "id": 173,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "As you approach the task, inspect tools and equipment for visible damage, loose parts, and proper guards. Check weather forecasts for high winds or storms before lifting or securing overhead materials. When working near water, ensure floatation devices are available for non-swimmers. A short pause to verify safety may be the best minute you spend all day. (Tip 173)"
+  },
+  {
+    "id": 174,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Make it routine to make sure incoming materials are stowed securely and will not roll or fall. If you find a problem, stop and tag the equipment out of service until repaired. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 174)"
+  },
+  {
+    "id": 175,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Prioritize this simple step: verify machinery lockout/tagout procedures are active before servicing electrical panels. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 175)"
+  },
+  {
+    "id": 176,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Don't begin until you confirm that traffic control for vehicles and equipment is in place and visible. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Use hearing protection near sustained loud noise and rotate exposure when possible. When in doubt, stop and rethink the procedure with your team. (Tip 176)"
+  },
+  {
+    "id": 177,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Don't begin until you confirm that communication (radio/hand signal) plans are understood by everyone on site. Use a buddy system when entering confined spaces and keep a trained attendant present. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 177)"
+  },
+  {
+    "id": 178,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "A quick pre-task check: verify machinery lockout/tagout procedures are active before servicing electrical panels. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 178)"
+  },
+  {
+    "id": 179,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "A quick pre-task check: verify that spill kits and containment materials are nearby when working around water systems. Label and isolate water lines during repairs to avoid cross-connection and contamination. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 179)"
+  },
+  {
+    "id": 180,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "As you approach the task, confirm the stability of surfaces and handholds where you will stand or walk. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 180)"
+  },
+  {
+    "id": 181,
+    "category": "Construction – General",
+    "message": "Don't begin until you confirm confined-space atmosphere testing has been done and ventilation is adequate. If you find a problem, stop and tag the equipment out of service until repaired. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 181)"
+  },
+  {
+    "id": 182,
+    "category": "Construction – Fall Protection",
+    "message": "Don't begin until you verify that spill kits and containment materials are nearby when working around water systems. If you find a problem, stop and tag the equipment out of service until repaired. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 182)"
+  },
+  {
+    "id": 183,
+    "category": "Construction – Trench & Excavation",
+    "message": "Make it routine to confirm the stability of surfaces and handholds where you will stand or walk. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 183)"
+  },
+  {
+    "id": 184,
+    "category": "Construction – Heavy Equipment",
+    "message": "Start every shift by ensure trenches are sloped or shored according to depth and soil type. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 184)"
+  },
+  {
+    "id": 185,
+    "category": "Construction – Electrical Safety",
+    "message": "Make it routine to confirm excavations are free of standing water and that pump systems are working. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 185)"
+  },
+  {
+    "id": 186,
+    "category": "Construction – PPE",
+    "message": "A quick pre-task check: ensure eyewash and first-aid stations are accessible before handling chemicals. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 186)"
+  },
+  {
+    "id": 187,
+    "category": "Construction – Site Housekeeping",
+    "message": "Prioritize this simple step: verify that all required permits are in place and understood by the team. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 187)"
+  },
+  {
+    "id": 188,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Don't begin until you inspect tools and equipment for visible damage, loose parts, and proper guards. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 188)"
+  },
+  {
+    "id": 189,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Start every shift by ensure eyewash and first-aid stations are accessible before handling chemicals. Label and isolate water lines during repairs to avoid cross-connection and contamination. Use hearing protection near sustained loud noise and rotate exposure when possible. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 189)"
+  },
+  {
+    "id": 190,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Start every shift by check that fall protection anchor points are rated and lanyards are correctly attached. Use a buddy system when entering confined spaces and keep a trained attendant present. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 190)"
+  },
+  {
+    "id": 191,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Don't begin until you confirm the stability of surfaces and handholds where you will stand or walk. Use a buddy system when entering confined spaces and keep a trained attendant present. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 191)"
+  },
+  {
+    "id": 192,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "As you approach the task, verify that all required permits are in place and understood by the team. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 192)"
+  },
+  {
+    "id": 193,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Store flammables away from heat sources and mark them with clear signage. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 193)"
+  },
+  {
+    "id": 194,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Don't begin until you check all PPE fits correctly and is free of tears, cracks, or excessive wear. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 194)"
+  },
+  {
+    "id": 195,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Prioritize this simple step: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Document the check and communicate it during the toolbox talk so everyone knows the risk. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 195)"
+  },
+  {
+    "id": 196,
+    "category": "Construction – General",
+    "message": "Don't begin until you inspect tools and equipment for visible damage, loose parts, and proper guards. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 196)"
+  },
+  {
+    "id": 197,
+    "category": "Construction – Fall Protection",
+    "message": "As you approach the task, confirm that communication (radio/hand signal) plans are understood by everyone on site. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 197)"
+  },
+  {
+    "id": 198,
+    "category": "Construction – Trench & Excavation",
+    "message": "Before beginning work, always verify that all required permits are in place and understood by the team. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Use hearing protection near sustained loud noise and rotate exposure when possible. This simple routine protects people, equipment, and the project timeline. (Tip 198)"
+  },
+  {
+    "id": 199,
+    "category": "Construction – Heavy Equipment",
+    "message": "As you approach the task, check that fall protection anchor points are rated and lanyards are correctly attached. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use hearing protection near sustained loud noise and rotate exposure when possible. This simple routine protects people, equipment, and the project timeline. (Tip 199)"
+  },
+  {
+    "id": 200,
+    "category": "Construction – Electrical Safety",
+    "message": "A quick pre-task check: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Label and isolate water lines during repairs to avoid cross-connection and contamination. Use hearing protection near sustained loud noise and rotate exposure when possible. When in doubt, stop and rethink the procedure with your team. (Tip 200)"
+  },
+  {
+    "id": 201,
+    "category": "Construction – PPE",
+    "message": "Start every shift by ensure eyewash and first-aid stations are accessible before handling chemicals. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 201)"
+  },
+  {
+    "id": 202,
+    "category": "Construction – Site Housekeeping",
+    "message": "A quick pre-task check: confirm confined-space atmosphere testing has been done and ventilation is adequate. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 202)"
+  },
+  {
+    "id": 203,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Start every shift by confirm confined-space atmosphere testing has been done and ventilation is adequate. Label and isolate water lines during repairs to avoid cross-connection and contamination. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 203)"
+  },
+  {
+    "id": 204,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Prioritize this simple step: verify machinery lockout/tagout procedures are active before servicing electrical panels. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Wear appropriate gloves for the material being handled and check grip. Small inspections prevent big incidents; make it non-negotiable. (Tip 204)"
+  },
+  {
+    "id": 205,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Make it routine to confirm excavations are free of standing water and that pump systems are working. Label and isolate water lines during repairs to avoid cross-connection and contamination. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 205)"
+  },
+  {
+    "id": 206,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "As you approach the task, confirm the stability of surfaces and handholds where you will stand or walk. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 206)"
+  },
+  {
+    "id": 207,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Don't begin until you verify that spill kits and containment materials are nearby when working around water systems. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use hearing protection near sustained loud noise and rotate exposure when possible. When in doubt, stop and rethink the procedure with your team. (Tip 207)"
+  },
+  {
+    "id": 208,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Don't begin until you ensure eyewash and first-aid stations are accessible before handling chemicals. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Keep a charged phone or radio available for emergencies; know the site emergency number. Small inspections prevent big incidents; make it non-negotiable. (Tip 208)"
+  },
+  {
+    "id": 209,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Prioritize this simple step: confirm that traffic control for vehicles and equipment is in place and visible. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 209)"
+  },
+  {
+    "id": 210,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Confirm that traffic control includes barriers and clear signage for pedestrians. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 210)"
+  },
+  {
+    "id": 211,
+    "category": "Construction – General",
+    "message": "Make it routine to check that fall protection anchor points are rated and lanyards are correctly attached. Store flammables away from heat sources and mark them with clear signage. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 211)"
+  },
+  {
+    "id": 212,
+    "category": "Construction – Fall Protection",
+    "message": "Don't begin until you verify that spill kits and containment materials are nearby when working around water systems. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 212)"
+  },
+  {
+    "id": 213,
+    "category": "Construction – Trench & Excavation",
+    "message": "Make it routine to inspect hoses and couplings for leaks and secure connections before pressurizing lines. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 213)"
+  },
+  {
+    "id": 214,
+    "category": "Construction – Heavy Equipment",
+    "message": "Before beginning work, always confirm excavations are free of standing water and that pump systems are working. Store flammables away from heat sources and mark them with clear signage. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 214)"
+  },
+  {
+    "id": 215,
+    "category": "Construction – Electrical Safety",
+    "message": "A quick pre-task check: confirm that communication (radio/hand signal) plans are understood by everyone on site. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 215)"
+  },
+  {
+    "id": 216,
+    "category": "Construction – PPE",
+    "message": "Don't begin until you inspect tools and equipment for visible damage, loose parts, and proper guards. Use grounding and GFCI protection when working with temporary power near water. Wear appropriate gloves for the material being handled and check grip. Good habits built daily keep teams safe and projects on schedule. (Tip 216)"
+  },
+  {
+    "id": 217,
+    "category": "Construction – Site Housekeeping",
+    "message": "Before beginning work, always confirm that traffic control for vehicles and equipment is in place and visible. Keep walkways clear and clean up small spills promptly to prevent slips and falls. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 217)"
+  },
+  {
+    "id": 218,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 218)"
+  },
+  {
+    "id": 219,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "As you approach the task, make sure incoming materials are stowed securely and will not roll or fall. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 219)"
+  },
+  {
+    "id": 220,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Start every shift by ensure trenches are sloped or shored according to depth and soil type. Use a buddy system when entering confined spaces and keep a trained attendant present. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 220)"
+  },
+  {
+    "id": 221,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Before beginning work, always ensure trenches are sloped or shored according to depth and soil type. Label and isolate water lines during repairs to avoid cross-connection and contamination. Confirm that traffic control includes barriers and clear signage for pedestrians. When in doubt, stop and rethink the procedure with your team. (Tip 221)"
+  },
+  {
+    "id": 222,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Make it routine to confirm confined-space atmosphere testing has been done and ventilation is adequate. Use grounding and GFCI protection when working with temporary power near water. Keep a charged phone or radio available for emergencies; know the site emergency number. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 222)"
+  },
+  {
+    "id": 223,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, confirm confined-space atmosphere testing has been done and ventilation is adequate. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 223)"
+  },
+  {
+    "id": 224,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Make it routine to ensure trenches are sloped or shored according to depth and soil type. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 224)"
+  },
+  {
+    "id": 225,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Start every shift by confirm that traffic control for vehicles and equipment is in place and visible. Use a buddy system when entering confined spaces and keep a trained attendant present. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 225)"
+  },
+  {
+    "id": 226,
+    "category": "Construction – General",
+    "message": "As you approach the task, confirm confined-space atmosphere testing has been done and ventilation is adequate. Store flammables away from heat sources and mark them with clear signage. Use taglines or guide ropes when moving long or suspended loads. This simple routine protects people, equipment, and the project timeline. (Tip 226)"
+  },
+  {
+    "id": 227,
+    "category": "Construction – Fall Protection",
+    "message": "Before beginning work, always check that fall protection anchor points are rated and lanyards are correctly attached. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 227)"
+  },
+  {
+    "id": 228,
+    "category": "Construction – Trench & Excavation",
+    "message": "As you approach the task, check all PPE fits correctly and is free of tears, cracks, or excessive wear. Store flammables away from heat sources and mark them with clear signage. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 228)"
+  },
+  {
+    "id": 229,
+    "category": "Construction – Heavy Equipment",
+    "message": "A quick pre-task check: verify that all required permits are in place and understood by the team. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Confirm that traffic control includes barriers and clear signage for pedestrians. Good habits built daily keep teams safe and projects on schedule. (Tip 229)"
+  },
+  {
+    "id": 230,
+    "category": "Construction – Electrical Safety",
+    "message": "Before beginning work, always confirm excavations are free of standing water and that pump systems are working. Document the check and communicate it during the toolbox talk so everyone knows the risk. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 230)"
+  },
+  {
+    "id": 231,
+    "category": "Construction – PPE",
+    "message": "As you approach the task, confirm confined-space atmosphere testing has been done and ventilation is adequate. Document the check and communicate it during the toolbox talk so everyone knows the risk. Wear appropriate gloves for the material being handled and check grip. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 231)"
+  },
+  {
+    "id": 232,
+    "category": "Construction – Site Housekeeping",
+    "message": "Start every shift by confirm confined-space atmosphere testing has been done and ventilation is adequate. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use taglines or guide ropes when moving long or suspended loads. This simple routine protects people, equipment, and the project timeline. (Tip 232)"
+  },
+  {
+    "id": 233,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "As you approach the task, inspect hoses and couplings for leaks and secure connections before pressurizing lines. Store flammables away from heat sources and mark them with clear signage. Wear appropriate gloves for the material being handled and check grip. Small inspections prevent big incidents; make it non-negotiable. (Tip 233)"
+  },
+  {
+    "id": 234,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Prioritize this simple step: inspect tools and equipment for visible damage, loose parts, and proper guards. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Keep a charged phone or radio available for emergencies; know the site emergency number. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 234)"
+  },
+  {
+    "id": 235,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Make it routine to make sure incoming materials are stowed securely and will not roll or fall. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Wear appropriate gloves for the material being handled and check grip. Good habits built daily keep teams safe and projects on schedule. (Tip 235)"
+  },
+  {
+    "id": 236,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "A quick pre-task check: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use hearing protection near sustained loud noise and rotate exposure when possible. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 236)"
+  },
+  {
+    "id": 237,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Start every shift by verify machinery lockout/tagout procedures are active before servicing electrical panels. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. When working near water, ensure floatation devices are available for non-swimmers. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 237)"
+  },
+  {
+    "id": 238,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, verify that spill kits and containment materials are nearby when working around water systems. If you find a problem, stop and tag the equipment out of service until repaired. Use taglines or guide ropes when moving long or suspended loads. Good habits built daily keep teams safe and projects on schedule. (Tip 238)"
+  },
+  {
+    "id": 239,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Prioritize this simple step: check all PPE fits correctly and is free of tears, cracks, or excessive wear. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use taglines or guide ropes when moving long or suspended loads. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 239)"
+  },
+  {
+    "id": 240,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Start every shift by confirm confined-space atmosphere testing has been done and ventilation is adequate. Store flammables away from heat sources and mark them with clear signage. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 240)"
+  },
+  {
+    "id": 241,
+    "category": "Construction – General",
+    "message": "Don't begin until you ensure eyewash and first-aid stations are accessible before handling chemicals. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 241)"
+  },
+  {
+    "id": 242,
+    "category": "Construction – Fall Protection",
+    "message": "Don't begin until you verify machinery lockout/tagout procedures are active before servicing electrical panels. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 242)"
+  },
+  {
+    "id": 243,
+    "category": "Construction – Trench & Excavation",
+    "message": "Prioritize this simple step: check all PPE fits correctly and is free of tears, cracks, or excessive wear. Keep walkways clear and clean up small spills promptly to prevent slips and falls. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 243)"
+  },
+  {
+    "id": 244,
+    "category": "Construction – Heavy Equipment",
+    "message": "Don't begin until you inspect tools and equipment for visible damage, loose parts, and proper guards. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 244)"
+  },
+  {
+    "id": 245,
+    "category": "Construction – Electrical Safety",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Label and isolate water lines during repairs to avoid cross-connection and contamination. Confirm that traffic control includes barriers and clear signage for pedestrians. Good habits built daily keep teams safe and projects on schedule. (Tip 245)"
+  },
+  {
+    "id": 246,
+    "category": "Construction – PPE",
+    "message": "As you approach the task, verify that all required permits are in place and understood by the team. Document the check and communicate it during the toolbox talk so everyone knows the risk. Use taglines or guide ropes when moving long or suspended loads. Good habits built daily keep teams safe and projects on schedule. (Tip 246)"
+  },
+  {
+    "id": 247,
+    "category": "Construction – Site Housekeeping",
+    "message": "Don't begin until you verify that all required permits are in place and understood by the team. Document the check and communicate it during the toolbox talk so everyone knows the risk. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 247)"
+  },
+  {
+    "id": 248,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Make it routine to confirm that traffic control for vehicles and equipment is in place and visible. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 248)"
+  },
+  {
+    "id": 249,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Start every shift by check that fall protection anchor points are rated and lanyards are correctly attached. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 249)"
+  },
+  {
+    "id": 250,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "As you approach the task, inspect hoses and couplings for leaks and secure connections before pressurizing lines. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 250)"
+  },
+  {
+    "id": 251,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Before beginning work, always confirm that communication (radio/hand signal) plans are understood by everyone on site. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use hearing protection near sustained loud noise and rotate exposure when possible. A short pause to verify safety may be the best minute you spend all day. (Tip 251)"
+  },
+  {
+    "id": 252,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "As you approach the task, check all PPE fits correctly and is free of tears, cracks, or excessive wear. Label and isolate water lines during repairs to avoid cross-connection and contamination. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 252)"
+  },
+  {
+    "id": 253,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Make it routine to verify that all required permits are in place and understood by the team. Use grounding and GFCI protection when working with temporary power near water. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 253)"
+  },
+  {
+    "id": 254,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Before beginning work, always confirm that communication (radio/hand signal) plans are understood by everyone on site. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 254)"
+  },
+  {
+    "id": 255,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Start every shift by inspect tools and equipment for visible damage, loose parts, and proper guards. Document the check and communicate it during the toolbox talk so everyone knows the risk. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 255)"
+  },
+  {
+    "id": 256,
+    "category": "Construction – General",
+    "message": "Don't begin until you confirm that traffic control for vehicles and equipment is in place and visible. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Confirm that traffic control includes barriers and clear signage for pedestrians. When in doubt, stop and rethink the procedure with your team. (Tip 256)"
+  },
+  {
+    "id": 257,
+    "category": "Construction – Fall Protection",
+    "message": "Make it routine to verify that all required permits are in place and understood by the team. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 257)"
+  },
+  {
+    "id": 258,
+    "category": "Construction – Trench & Excavation",
+    "message": "As you approach the task, verify machinery lockout/tagout procedures are active before servicing electrical panels. Maintain three points of contact when climbing ladders and use a ladder rated for the load. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 258)"
+  },
+  {
+    "id": 259,
+    "category": "Construction – Heavy Equipment",
+    "message": "Make it routine to make sure incoming materials are stowed securely and will not roll or fall. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 259)"
+  },
+  {
+    "id": 260,
+    "category": "Construction – Electrical Safety",
+    "message": "Make it routine to confirm that traffic control for vehicles and equipment is in place and visible. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Confirm that traffic control includes barriers and clear signage for pedestrians. When in doubt, stop and rethink the procedure with your team. (Tip 260)"
+  },
+  {
+    "id": 261,
+    "category": "Construction – PPE",
+    "message": "Start every shift by verify that all required permits are in place and understood by the team. Use a buddy system when entering confined spaces and keep a trained attendant present. Use hearing protection near sustained loud noise and rotate exposure when possible. This simple routine protects people, equipment, and the project timeline. (Tip 261)"
+  },
+  {
+    "id": 262,
+    "category": "Construction – Site Housekeeping",
+    "message": "Prioritize this simple step: check all PPE fits correctly and is free of tears, cracks, or excessive wear. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Use hearing protection near sustained loud noise and rotate exposure when possible. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 262)"
+  },
+  {
+    "id": 263,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "As you approach the task, inspect hoses and couplings for leaks and secure connections before pressurizing lines. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 263)"
+  },
+  {
+    "id": 264,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Prioritize this simple step: ensure eyewash and first-aid stations are accessible before handling chemicals. Document the check and communicate it during the toolbox talk so everyone knows the risk. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 264)"
+  },
+  {
+    "id": 265,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "As you approach the task, make sure incoming materials are stowed securely and will not roll or fall. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 265)"
+  },
+  {
+    "id": 266,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Don't begin until you verify machinery lockout/tagout procedures are active before servicing electrical panels. Label and isolate water lines during repairs to avoid cross-connection and contamination. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 266)"
+  },
+  {
+    "id": 267,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Start every shift by make sure incoming materials are stowed securely and will not roll or fall. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 267)"
+  },
+  {
+    "id": 268,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "A quick pre-task check: verify that spill kits and containment materials are nearby when working around water systems. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 268)"
+  },
+  {
+    "id": 269,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "A quick pre-task check: verify machinery lockout/tagout procedures are active before servicing electrical panels. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 269)"
+  },
+  {
+    "id": 270,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "As you approach the task, verify machinery lockout/tagout procedures are active before servicing electrical panels. Check weather forecasts for high winds or storms before lifting or securing overhead materials. When working near water, ensure floatation devices are available for non-swimmers. A short pause to verify safety may be the best minute you spend all day. (Tip 270)"
+  },
+  {
+    "id": 271,
+    "category": "Construction – General",
+    "message": "Start every shift by make sure incoming materials are stowed securely and will not roll or fall. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 271)"
+  },
+  {
+    "id": 272,
+    "category": "Construction – Fall Protection",
+    "message": "A quick pre-task check: verify that all required permits are in place and understood by the team. Store flammables away from heat sources and mark them with clear signage. Use hearing protection near sustained loud noise and rotate exposure when possible. Small inspections prevent big incidents; make it non-negotiable. (Tip 272)"
+  },
+  {
+    "id": 273,
+    "category": "Construction – Trench & Excavation",
+    "message": "Don't begin until you inspect hoses and couplings for leaks and secure connections before pressurizing lines. If you find a problem, stop and tag the equipment out of service until repaired. Use hearing protection near sustained loud noise and rotate exposure when possible. This simple routine protects people, equipment, and the project timeline. (Tip 273)"
+  },
+  {
+    "id": 274,
+    "category": "Construction – Heavy Equipment",
+    "message": "Don't begin until you make sure incoming materials are stowed securely and will not roll or fall. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Use taglines or guide ropes when moving long or suspended loads. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 274)"
+  },
+  {
+    "id": 275,
+    "category": "Construction – Electrical Safety",
+    "message": "Don't begin until you confirm excavations are free of standing water and that pump systems are working. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 275)"
+  },
+  {
+    "id": 276,
+    "category": "Construction – PPE",
+    "message": "As you approach the task, make sure incoming materials are stowed securely and will not roll or fall. Store flammables away from heat sources and mark them with clear signage. Use taglines or guide ropes when moving long or suspended loads. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 276)"
+  },
+  {
+    "id": 277,
+    "category": "Construction – Site Housekeeping",
+    "message": "A quick pre-task check: confirm confined-space atmosphere testing has been done and ventilation is adequate. Document the check and communicate it during the toolbox talk so everyone knows the risk. Keep a charged phone or radio available for emergencies; know the site emergency number. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 277)"
+  },
+  {
+    "id": 278,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "As you approach the task, make sure incoming materials are stowed securely and will not roll or fall. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 278)"
+  },
+  {
+    "id": 279,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Don't begin until you ensure eyewash and first-aid stations are accessible before handling chemicals. Use a buddy system when entering confined spaces and keep a trained attendant present. Use taglines or guide ropes when moving long or suspended loads. This simple routine protects people, equipment, and the project timeline. (Tip 279)"
+  },
+  {
+    "id": 280,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "A quick pre-task check: confirm confined-space atmosphere testing has been done and ventilation is adequate. If you find a problem, stop and tag the equipment out of service until repaired. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 280)"
+  },
+  {
+    "id": 281,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Start every shift by check that fall protection anchor points are rated and lanyards are correctly attached. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 281)"
+  },
+  {
+    "id": 282,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Start every shift by verify that spill kits and containment materials are nearby when working around water systems. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 282)"
+  },
+  {
+    "id": 283,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. Use grounding and GFCI protection when working with temporary power near water. Confirm that traffic control includes barriers and clear signage for pedestrians. This simple routine protects people, equipment, and the project timeline. (Tip 283)"
+  },
+  {
+    "id": 284,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Make it routine to inspect hoses and couplings for leaks and secure connections before pressurizing lines. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 284)"
+  },
+  {
+    "id": 285,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Make it routine to confirm confined-space atmosphere testing has been done and ventilation is adequate. Document the check and communicate it during the toolbox talk so everyone knows the risk. Use taglines or guide ropes when moving long or suspended loads. Small inspections prevent big incidents; make it non-negotiable. (Tip 285)"
+  },
+  {
+    "id": 286,
+    "category": "Construction – General",
+    "message": "Don't begin until you confirm confined-space atmosphere testing has been done and ventilation is adequate. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 286)"
+  },
+  {
+    "id": 287,
+    "category": "Construction – Fall Protection",
+    "message": "Start every shift by ensure trenches are sloped or shored according to depth and soil type. Store flammables away from heat sources and mark them with clear signage. Use hearing protection near sustained loud noise and rotate exposure when possible. A short pause to verify safety may be the best minute you spend all day. (Tip 287)"
+  },
+  {
+    "id": 288,
+    "category": "Construction – Trench & Excavation",
+    "message": "Make it routine to confirm excavations are free of standing water and that pump systems are working. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. When working near water, ensure floatation devices are available for non-swimmers. A short pause to verify safety may be the best minute you spend all day. (Tip 288)"
+  },
+  {
+    "id": 289,
+    "category": "Construction – Heavy Equipment",
+    "message": "A quick pre-task check: inspect hoses and couplings for leaks and secure connections before pressurizing lines. If you find a problem, stop and tag the equipment out of service until repaired. Verify that all temporary lighting is secured and does not present a trip hazard. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 289)"
+  },
+  {
+    "id": 290,
+    "category": "Construction – Electrical Safety",
+    "message": "A quick pre-task check: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Verify that all temporary lighting is secured and does not present a trip hazard. When in doubt, stop and rethink the procedure with your team. (Tip 290)"
+  },
+  {
+    "id": 291,
+    "category": "Construction – PPE",
+    "message": "Make it routine to inspect hoses and couplings for leaks and secure connections before pressurizing lines. Document the check and communicate it during the toolbox talk so everyone knows the risk. When working near water, ensure floatation devices are available for non-swimmers. Small inspections prevent big incidents; make it non-negotiable. (Tip 291)"
+  },
+  {
+    "id": 292,
+    "category": "Construction – Site Housekeeping",
+    "message": "Make it routine to confirm excavations are free of standing water and that pump systems are working. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Use hearing protection near sustained loud noise and rotate exposure when possible. When in doubt, stop and rethink the procedure with your team. (Tip 292)"
+  },
+  {
+    "id": 293,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Don't begin until you verify machinery lockout/tagout procedures are active before servicing electrical panels. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 293)"
+  },
+  {
+    "id": 294,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Before beginning work, always confirm that traffic control for vehicles and equipment is in place and visible. Use a buddy system when entering confined spaces and keep a trained attendant present. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 294)"
+  },
+  {
+    "id": 295,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "Before beginning work, always inspect hoses and couplings for leaks and secure connections before pressurizing lines. Store flammables away from heat sources and mark them with clear signage. Wear appropriate gloves for the material being handled and check grip. Small inspections prevent big incidents; make it non-negotiable. (Tip 295)"
+  },
+  {
+    "id": 296,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "A quick pre-task check: confirm that traffic control for vehicles and equipment is in place and visible. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use hearing protection near sustained loud noise and rotate exposure when possible. This simple routine protects people, equipment, and the project timeline. (Tip 296)"
+  },
+  {
+    "id": 297,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Make it routine to verify machinery lockout/tagout procedures are active before servicing electrical panels. Label and isolate water lines during repairs to avoid cross-connection and contamination. Use hearing protection near sustained loud noise and rotate exposure when possible. A short pause to verify safety may be the best minute you spend all day. (Tip 297)"
+  },
+  {
+    "id": 298,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, confirm the stability of surfaces and handholds where you will stand or walk. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use taglines or guide ropes when moving long or suspended loads. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 298)"
+  },
+  {
+    "id": 299,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Don't begin until you check all PPE fits correctly and is free of tears, cracks, or excessive wear. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Wear appropriate gloves for the material being handled and check grip. A short pause to verify safety may be the best minute you spend all day. (Tip 299)"
+  },
+  {
+    "id": 300,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Prioritize this simple step: inspect hoses and couplings for leaks and secure connections before pressurizing lines. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. When working near water, ensure floatation devices are available for non-swimmers. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 300)"
+  },
+  {
+    "id": 301,
+    "category": "Construction – General",
+    "message": "Make it routine to inspect tools and equipment for visible damage, loose parts, and proper guards. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 301)"
+  },
+  {
+    "id": 302,
+    "category": "Construction – Fall Protection",
+    "message": "Prioritize this simple step: verify that spill kits and containment materials are nearby when working around water systems. Document the check and communicate it during the toolbox talk so everyone knows the risk. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 302)"
+  },
+  {
+    "id": 303,
+    "category": "Construction – Trench & Excavation",
+    "message": "Prioritize this simple step: ensure trenches are sloped or shored according to depth and soil type. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. When in doubt, stop and rethink the procedure with your team. (Tip 303)"
+  },
+  {
+    "id": 304,
+    "category": "Construction – Heavy Equipment",
+    "message": "Make it routine to verify that spill kits and containment materials are nearby when working around water systems. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 304)"
+  },
+  {
+    "id": 305,
+    "category": "Construction – Electrical Safety",
+    "message": "Prioritize this simple step: verify that spill kits and containment materials are nearby when working around water systems. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 305)"
+  },
+  {
+    "id": 306,
+    "category": "Construction – PPE",
+    "message": "A quick pre-task check: verify that spill kits and containment materials are nearby when working around water systems. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Keep a charged phone or radio available for emergencies; know the site emergency number. A short pause to verify safety may be the best minute you spend all day. (Tip 306)"
+  },
+  {
+    "id": 307,
+    "category": "Construction – Site Housekeeping",
+    "message": "Prioritize this simple step: confirm confined-space atmosphere testing has been done and ventilation is adequate. If you find a problem, stop and tag the equipment out of service until repaired. Wear appropriate gloves for the material being handled and check grip. When in doubt, stop and rethink the procedure with your team. (Tip 307)"
+  },
+  {
+    "id": 308,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Before beginning work, always verify that spill kits and containment materials are nearby when working around water systems. Label and isolate water lines during repairs to avoid cross-connection and contamination. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 308)"
+  },
+  {
+    "id": 309,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "As you approach the task, verify that all required permits are in place and understood by the team. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Use hearing protection near sustained loud noise and rotate exposure when possible. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 309)"
+  },
+  {
+    "id": 310,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "As you approach the task, confirm that traffic control for vehicles and equipment is in place and visible. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Keep a charged phone or radio available for emergencies; know the site emergency number. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 310)"
+  },
+  {
+    "id": 311,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Before beginning work, always confirm that traffic control for vehicles and equipment is in place and visible. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Wear appropriate gloves for the material being handled and check grip. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 311)"
+  },
+  {
+    "id": 312,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "A quick pre-task check: ensure eyewash and first-aid stations are accessible before handling chemicals. If you find a problem, stop and tag the equipment out of service until repaired. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 312)"
+  },
+  {
+    "id": 313,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "A quick pre-task check: verify machinery lockout/tagout procedures are active before servicing electrical panels. Document the check and communicate it during the toolbox talk so everyone knows the risk. When working near water, ensure floatation devices are available for non-swimmers. Good habits built daily keep teams safe and projects on schedule. (Tip 313)"
+  },
+  {
+    "id": 314,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Make it routine to check all PPE fits correctly and is free of tears, cracks, or excessive wear. Label and isolate water lines during repairs to avoid cross-connection and contamination. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 314)"
+  },
+  {
+    "id": 315,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Before beginning work, always confirm the stability of surfaces and handholds where you will stand or walk. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use hearing protection near sustained loud noise and rotate exposure when possible. When in doubt, stop and rethink the procedure with your team. (Tip 315)"
+  },
+  {
+    "id": 316,
+    "category": "Construction – General",
+    "message": "Make it routine to check all PPE fits correctly and is free of tears, cracks, or excessive wear. Label and isolate water lines during repairs to avoid cross-connection and contamination. Keep a charged phone or radio available for emergencies; know the site emergency number. Good habits built daily keep teams safe and projects on schedule. (Tip 316)"
+  },
+  {
+    "id": 317,
+    "category": "Construction – Fall Protection",
+    "message": "Don't begin until you confirm the stability of surfaces and handholds where you will stand or walk. Use a buddy system when entering confined spaces and keep a trained attendant present. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 317)"
+  },
+  {
+    "id": 318,
+    "category": "Construction – Trench & Excavation",
+    "message": "A quick pre-task check: make sure incoming materials are stowed securely and will not roll or fall. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 318)"
+  },
+  {
+    "id": 319,
+    "category": "Construction – Heavy Equipment",
+    "message": "Prioritize this simple step: make sure incoming materials are stowed securely and will not roll or fall. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Verify that all temporary lighting is secured and does not present a trip hazard. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 319)"
+  },
+  {
+    "id": 320,
+    "category": "Construction – Electrical Safety",
+    "message": "Don't begin until you confirm the stability of surfaces and handholds where you will stand or walk. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Confirm that traffic control includes barriers and clear signage for pedestrians. Small inspections prevent big incidents; make it non-negotiable. (Tip 320)"
+  },
+  {
+    "id": 321,
+    "category": "Construction – PPE",
+    "message": "Don't begin until you ensure trenches are sloped or shored according to depth and soil type. Label and isolate water lines during repairs to avoid cross-connection and contamination. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 321)"
+  },
+  {
+    "id": 322,
+    "category": "Construction – Site Housekeeping",
+    "message": "A quick pre-task check: make sure incoming materials are stowed securely and will not roll or fall. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 322)"
+  },
+  {
+    "id": 323,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Make it routine to inspect hoses and couplings for leaks and secure connections before pressurizing lines. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Use taglines or guide ropes when moving long or suspended loads. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 323)"
+  },
+  {
+    "id": 324,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Make it routine to check all PPE fits correctly and is free of tears, cracks, or excessive wear. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Confirm that traffic control includes barriers and clear signage for pedestrians. When in doubt, stop and rethink the procedure with your team. (Tip 324)"
+  },
+  {
+    "id": 325,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "As you approach the task, ensure trenches are sloped or shored according to depth and soil type. If you find a problem, stop and tag the equipment out of service until repaired. Verify that all temporary lighting is secured and does not present a trip hazard. A short pause to verify safety may be the best minute you spend all day. (Tip 325)"
+  },
+  {
+    "id": 326,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Make it routine to ensure trenches are sloped or shored according to depth and soil type. If you find a problem, stop and tag the equipment out of service until repaired. Use hearing protection near sustained loud noise and rotate exposure when possible. When in doubt, stop and rethink the procedure with your team. (Tip 326)"
+  },
+  {
+    "id": 327,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "As you approach the task, ensure eyewash and first-aid stations are accessible before handling chemicals. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. When working near water, ensure floatation devices are available for non-swimmers. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 327)"
+  },
+  {
+    "id": 328,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "As you approach the task, make sure incoming materials are stowed securely and will not roll or fall. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 328)"
+  },
+  {
+    "id": 329,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Prioritize this simple step: check that fall protection anchor points are rated and lanyards are correctly attached. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 329)"
+  },
+  {
+    "id": 330,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Before beginning work, always verify that spill kits and containment materials are nearby when working around water systems. Use a buddy system when entering confined spaces and keep a trained attendant present. Confirm that traffic control includes barriers and clear signage for pedestrians. When in doubt, stop and rethink the procedure with your team. (Tip 330)"
+  },
+  {
+    "id": 331,
+    "category": "Construction – General",
+    "message": "As you approach the task, ensure eyewash and first-aid stations are accessible before handling chemicals. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Verify that all temporary lighting is secured and does not present a trip hazard. A short pause to verify safety may be the best minute you spend all day. (Tip 331)"
+  },
+  {
+    "id": 332,
+    "category": "Construction – Fall Protection",
+    "message": "As you approach the task, inspect hoses and couplings for leaks and secure connections before pressurizing lines. Document the check and communicate it during the toolbox talk so everyone knows the risk. Wear appropriate gloves for the material being handled and check grip. This simple routine protects people, equipment, and the project timeline. (Tip 332)"
+  },
+  {
+    "id": 333,
+    "category": "Construction – Trench & Excavation",
+    "message": "As you approach the task, verify that spill kits and containment materials are nearby when working around water systems. If you find a problem, stop and tag the equipment out of service until repaired. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 333)"
+  },
+  {
+    "id": 334,
+    "category": "Construction – Heavy Equipment",
+    "message": "Make it routine to inspect tools and equipment for visible damage, loose parts, and proper guards. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Verify that all temporary lighting is secured and does not present a trip hazard. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 334)"
+  },
+  {
+    "id": 335,
+    "category": "Construction – Electrical Safety",
+    "message": "Before beginning work, always verify that all required permits are in place and understood by the team. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Confirm that traffic control includes barriers and clear signage for pedestrians. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 335)"
+  },
+  {
+    "id": 336,
+    "category": "Construction – PPE",
+    "message": "As you approach the task, verify machinery lockout/tagout procedures are active before servicing electrical panels. Document the check and communicate it during the toolbox talk so everyone knows the risk. Use taglines or guide ropes when moving long or suspended loads. Good habits built daily keep teams safe and projects on schedule. (Tip 336)"
+  },
+  {
+    "id": 337,
+    "category": "Construction – Site Housekeeping",
+    "message": "Prioritize this simple step: confirm confined-space atmosphere testing has been done and ventilation is adequate. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. When working near water, ensure floatation devices are available for non-swimmers. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 337)"
+  },
+  {
+    "id": 338,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Don't begin until you confirm that communication (radio/hand signal) plans are understood by everyone on site. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Use taglines or guide ropes when moving long or suspended loads. A short pause to verify safety may be the best minute you spend all day. (Tip 338)"
+  },
+  {
+    "id": 339,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "A quick pre-task check: confirm that communication (radio/hand signal) plans are understood by everyone on site. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use hearing protection near sustained loud noise and rotate exposure when possible. Small inspections prevent big incidents; make it non-negotiable. (Tip 339)"
+  },
+  {
+    "id": 340,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "A quick pre-task check: confirm that traffic control for vehicles and equipment is in place and visible. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Use hearing protection near sustained loud noise and rotate exposure when possible. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 340)"
+  },
+  {
+    "id": 341,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "Start every shift by make sure incoming materials are stowed securely and will not roll or fall. If you cannot correct an unsafe condition immediately, mark it and notify your supervisor. Use hearing protection near sustained loud noise and rotate exposure when possible. Good habits built daily keep teams safe and projects on schedule. (Tip 341)"
+  },
+  {
+    "id": 342,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Before beginning work, always inspect hoses and couplings for leaks and secure connections before pressurizing lines. Label and isolate water lines during repairs to avoid cross-connection and contamination. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 342)"
+  },
+  {
+    "id": 343,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "Make it routine to inspect hoses and couplings for leaks and secure connections before pressurizing lines. Store flammables away from heat sources and mark them with clear signage. Confirm that traffic control includes barriers and clear signage for pedestrians. When in doubt, stop and rethink the procedure with your team. (Tip 343)"
+  },
+  {
+    "id": 344,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Start every shift by ensure eyewash and first-aid stations are accessible before handling chemicals. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Confirm that traffic control includes barriers and clear signage for pedestrians. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 344)"
+  },
+  {
+    "id": 345,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Don't begin until you verify that all required permits are in place and understood by the team. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Verify that all temporary lighting is secured and does not present a trip hazard. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 345)"
+  },
+  {
+    "id": 346,
+    "category": "Construction – General",
+    "message": "As you approach the task, verify that spill kits and containment materials are nearby when working around water systems. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 346)"
+  },
+  {
+    "id": 347,
+    "category": "Construction – Fall Protection",
+    "message": "Prioritize this simple step: verify that spill kits and containment materials are nearby when working around water systems. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 347)"
+  },
+  {
+    "id": 348,
+    "category": "Construction – Trench & Excavation",
+    "message": "Before beginning work, always make sure incoming materials are stowed securely and will not roll or fall. If you find a problem, stop and tag the equipment out of service until repaired. When working near water, ensure floatation devices are available for non-swimmers. When in doubt, stop and rethink the procedure with your team. (Tip 348)"
+  },
+  {
+    "id": 349,
+    "category": "Construction – Heavy Equipment",
+    "message": "A quick pre-task check: confirm that communication (radio/hand signal) plans are understood by everyone on site. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Verify that all temporary lighting is secured and does not present a trip hazard. Good habits built daily keep teams safe and projects on schedule. (Tip 349)"
+  },
+  {
+    "id": 350,
+    "category": "Construction – Electrical Safety",
+    "message": "Start every shift by verify that spill kits and containment materials are nearby when working around water systems. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 350)"
+  },
+  {
+    "id": 351,
+    "category": "Construction – PPE",
+    "message": "A quick pre-task check: verify that spill kits and containment materials are nearby when working around water systems. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Use taglines or guide ropes when moving long or suspended loads. A two-minute check can prevent an hour of recovery time — invest the time now. (Tip 351)"
+  },
+  {
+    "id": 352,
+    "category": "Construction – Site Housekeeping",
+    "message": "Start every shift by inspect tools and equipment for visible damage, loose parts, and proper guards. Maintain three points of contact when climbing ladders and use a ladder rated for the load. Wear appropriate gloves for the material being handled and check grip. Small inspections prevent big incidents; make it non-negotiable. (Tip 352)"
+  },
+  {
+    "id": 353,
+    "category": "Water Infrastructure – Dams & Levees",
+    "message": "Start every shift by check that fall protection anchor points are rated and lanyards are correctly attached. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Use taglines or guide ropes when moving long or suspended loads. When in doubt, stop and rethink the procedure with your team. (Tip 353)"
+  },
+  {
+    "id": 354,
+    "category": "Water Infrastructure – Potable Water Systems",
+    "message": "Make it routine to make sure incoming materials are stowed securely and will not roll or fall. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. This simple routine protects people, equipment, and the project timeline. (Tip 354)"
+  },
+  {
+    "id": 355,
+    "category": "Water Infrastructure – Pipe/Trench Safety",
+    "message": "As you approach the task, confirm confined-space atmosphere testing has been done and ventilation is adequate. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Verify that all temporary lighting is secured and does not present a trip hazard. When in doubt, stop and rethink the procedure with your team. (Tip 355)"
+  },
+  {
+    "id": 356,
+    "category": "Water Infrastructure – Confined Spaces",
+    "message": "As you approach the task, confirm the stability of surfaces and handholds where you will stand or walk. Make sure isolation valves and emergency shutoffs are accessible and marked clearly. Verify that all temporary lighting is secured and does not present a trip hazard. Small inspections prevent big incidents; make it non-negotiable. (Tip 356)"
+  },
+  {
+    "id": 357,
+    "category": "Water Infrastructure – Hydration & Heat",
+    "message": "Start every shift by inspect hoses and couplings for leaks and secure connections before pressurizing lines. Keep an appropriate distance from operating heavy equipment and make eye contact with operators. Keep a charged phone or radio available for emergencies; know the site emergency number. When in doubt, stop and rethink the procedure with your team. (Tip 357)"
+  },
+  {
+    "id": 358,
+    "category": "Water Infrastructure – Contamination Control",
+    "message": "A quick pre-task check: inspect tools and equipment for visible damage, loose parts, and proper guards. Rotate tasks to reduce repetitive-motion strain and encourage safe lifting techniques. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 358)"
+  },
+  {
+    "id": 359,
+    "category": "Water Infrastructure – Inspection & Maintenance",
+    "message": "Make it routine to make sure incoming materials are stowed securely and will not roll or fall. Use a buddy system when entering confined spaces and keep a trained attendant present. Confirm that traffic control includes barriers and clear signage for pedestrians. A short pause to verify safety may be the best minute you spend all day. (Tip 359)"
+  },
+  {
+    "id": 360,
+    "category": "Water Infrastructure – Flood Response",
+    "message": "Start every shift by verify that spill kits and containment materials are nearby when working around water systems. Position equipment on stable, level ground and use wheel chocks or outriggers where needed. Verify that all temporary lighting is secured and does not present a trip hazard. When in doubt, stop and rethink the procedure with your team. (Tip 360)"
+  },
+  {
+    "id": 361,
+    "category": "Construction – General",
+    "message": "A quick pre-task check: inspect tools and equipment for visible damage, loose parts, and proper guards. Keep walkways clear and clean up small spills promptly to prevent slips and falls. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 361)"
+  },
+  {
+    "id": 362,
+    "category": "Construction – Fall Protection",
+    "message": "Start every shift by inspect hoses and couplings for leaks and secure connections before pressurizing lines. Check weather forecasts for high winds or storms before lifting or securing overhead materials. Wear appropriate gloves for the material being handled and check grip. Small inspections prevent big incidents; make it non-negotiable. (Tip 362)"
+  },
+  {
+    "id": 363,
+    "category": "Construction – Trench & Excavation",
+    "message": "As you approach the task, check that fall protection anchor points are rated and lanyards are correctly attached. Label and isolate water lines during repairs to avoid cross-connection and contamination. When working near water, ensure floatation devices are available for non-swimmers. This simple routine protects people, equipment, and the project timeline. (Tip 363)"
+  },
+  {
+    "id": 364,
+    "category": "Construction – Heavy Equipment",
+    "message": "Start every shift by inspect tools and equipment for visible damage, loose parts, and proper guards. Store flammables away from heat sources and mark them with clear signage. Use taglines or guide ropes when moving long or suspended loads. Safety is a shared responsibility — speak up if something feels unsafe. (Tip 364)"
+  },
+  {
+    "id": 365,
+    "category": "Construction – Electrical Safety",
+    "message": "Before beginning work, always ensure eyewash and first-aid stations are accessible before handling chemicals. Hydrate early and often; schedule short rest breaks in shaded or cooled areas. Wear appropriate gloves for the material being handled and check grip. Good habits built daily keep teams safe and projects on schedule. (Tip 365)"
+  }
+]
