@@ -1,2 +1,2 @@
 # safety-moments
-website with daily safety moments to startt meetings with
+websitte with daily safetty momentts to startt meettings witth
