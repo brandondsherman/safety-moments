@@ -56,21 +56,27 @@
   </div>
 
   <script>
-    fetch('messages.json')
-      .then(res => res.json())
-      .then(messages => {
-        const startDate = new Date("2025-01-01"); // modify when launching
-        const today = new Date();
-        const diffDays = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
-        const message = messages[diffDays % messages.length];
+fetch('messages.json')
+  .then(res => res.json())
+  .then(messages => {
+    const launchDate = new Date("2025-11-06"); // <-- choose start date
+    const today = new Date();
 
-        document.getElementById("daily-message").textContent = message.message;
-        document.getElementById("message-category").textContent = message.category;
-      })
-      .catch(err => {
-        document.getElementById("daily-message").textContent = "Error loading message.";
-        console.error("Failed to load messages.json", err);
-      });
+    const daysSinceLaunch = Math.floor(
+      (today - launchDate) / (1000 * 60 * 60 * 24)
+    );
+
+    // Calculate which message to show
+    const index = daysSinceLaunch % messages.length;
+    const message = messages[index];
+
+    document.getElementById("daily-message").textContent = message.message;
+    document.getElementById("message-category").textContent = message.category;
+  })
+  .catch(err => {
+    document.getElementById("daily-message").textContent = "Error loading message.";
+    console.error("Failed to load messages.json", err);
+  });
   </script>
 
 </body>
